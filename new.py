@@ -4,3 +4,5 @@ print("neda")
 
 "kmknjnbiu"
 "my name is neda"
+"ijhdhnuidv"
+"lclmdkmdv"
